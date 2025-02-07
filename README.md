@@ -9,9 +9,9 @@ The closes the velocity is to the speed of light:
 ***The more time dilation occurs. ex:  299,792 k/s = 1 year for a stationary observer only 0.64 days pass for the moving object.**
 
 **At the speed of Light**
-![Max Speed] (299792kms.png)
+![Max Speed](299792kms.png)
 
 **Speed of 1Km/s**
-![Not Max Speed] (1kms.png)
+![Not Max Speed](1kms.png)
 
 
