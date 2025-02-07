@@ -15,3 +15,4 @@ The closes the velocity is to the speed of light:
 ![Not Max Speed](1kms.png)
 
 
+Note: Some of this code was generated with Deepseek & Chatgpt
