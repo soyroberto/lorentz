@@ -14,5 +14,13 @@ The closes the velocity is to the speed of light:
 **Speed of 1Km/s**
 ![Not Max Speed](1kms.png)
 
+## How to run
+
+on the Command line (tested on MacOS)
+*python3 lorfactor.py* 
+
+Will ask for speed. See picture below
+![Sample run](samplerun.png)
+
 
 Note: Some of this code was generated with Deepseek & Chatgpt (The Graph)
